@@ -1,2 +1,2 @@
-# Divyanshu-Devlopment
+# Divyanshu-Notes
 Author - Divyanshu
