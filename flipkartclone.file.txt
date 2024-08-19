@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- 7:20:51 -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlipKart E Commerce website</title>
+    <link rel="stylesheet" href="styleee.css">
+    <link rel="stylesheet" href="util.css">
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class=logo><img
+                    src="https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/fkheaderlogo_exploreplus-44005d.svg">
+            </div>
+            <ul>
+                <li><a href="HOME.html">HOME</a></li>
+                <li><a href="ABOUT.html">ABOUT</a></li>
+                <li><a href="CONTACT.html">CONTACT</a></li>
+
+                <div type="search">
+                    <input type="text" name="" id="" placeholder="Search for Products, Brands and More">
+
+                    <button class="button">Search</button>
+                </div>
+            </ul>
+
+
+
+        </nav>
+
+
+    </header>
+    <Main>
+        <div class="container">
+            <div class="slider">
+                <img src="https://rukminim2.flixcart.com/fk-p-flap/1600/270/image/f871c3dec2984ff3.jpeg?q=20">
+            </div>
+            <div class="card">
+
+                <h2 class=>cricket kit-bat</h2>
+                <div class="card-item">
+                    <img
+                        src="https://rukminim2.flixcart.com/image/612/612/kv8fbm80/kit/o/y/q/mrf-grand-edition-vk-18-full-size-ideal-for-15-21-years-complete-original-imag86qh9m2spjhp.jpeg?q=70">
+                </div>
+                <div class="lines">
+                    <p class="text-center">HF MRF GRAND Edition VK - 18 Full Size</p>
+                    <p>( Ideal For 15-21 Years )
+                        Complete
+                        Cricket Kit</p>
+                    <p>45,614 Ratings & 704 Reviews
+                        Extra ₹680 off
+                        ₹3,099₹18,9998
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class=football>
+            <h2 class="one">Lional Messi jersey</h2>
+            <div class=jersey>
+                <img src="https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/t/o/a/m-8dv-argentinablack-messi10-yutu-original-imagx45jfdfgppsw.jpeg?q=70"
+                    alt="">
+            </div>
+            <p class="lin">Men Printed Round Neck Polyester Multicolor T-Shirt</p>
+        </div>
+
+        <div class=football1>
+            <h2 class="two">Addidas football</h2>
+            <div class=football>
+                <img
+                    src="https://th.bing.com/th/id/OIP.fQLsCuG_vcXPxII1i_3BzwHaHa?w=213&h=213&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+
+            </div>
+            <p class="lin1">ADIDAS TIRO LGE TB Football - Size: 5 (Pack of 1, White)</p>
+
+        </div>
+
+        <div class=poco>
+            <h2 class="three">POCO MOBILE</h2>
+            <div class=POCO>
+                <img
+                    src="https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70">
+
+            </div>
+            <p class="lin2">POCO M6 Pro 5G (Power Black, 128 GB) (6 GB RAM)</p>
+
+        </div>
+        <div class=bot>
+            <h2 class="four">boat</h2>
+            <div class=earburds>
+                <img
+                    src="https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/u/r/y/-original-imagtc44zcupzhqh.jpeg?q=70">
+
+            </div>
+            <p class="lin3">boAt Airdopes Alpha with 35 HRS Playback</p>
+        </div>
+
+        <div class=trim>
+            <h2 class="five">UrbanHTC Trimmer</h2>
+            <div class=>
+                <img
+                    src="https://th.bing.com/th/id/OIP.nuowuWvLoMMFdgc0eQJsvAHaHa?w=195&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+
+            </div>
+            <p class="lin4">UrbanHTC Metal Professional Beard</p>
+            <p class="lin5">Mustache, Head and Body Hair Golden Shaver Trimmer</p>
+        </div>
+
+        <div class="contain">
+            <div class="slid">
+                <img src="https://rukminim2.flixcart.com/fk-p-flap/1600/350/image/4f095748fe5cdf77.png?q=20">
+            </div>
+            <div class="ppp">
+                <p>Contact Us
+                    About Us
+                    Careers
+                    Flipkart Stories
+                    Press
+                    Corporate Information
+                    GROUP COMPANIES
+                    Myntra
+                    Cleartrip
+                    Shopsy
+                    HELP
+                    Payments
+                    Shipping
+                    Cancellation & Returns
+                    FAQ
+                    Report Infringement
+                    CONSUMER POLICY
+                    Cancellation & Returns
+                    Terms Of Use
+                    Security
+                    Privacy
+                    Sitemap
+                    Grievance Redressal
+                    EPR Compliance
+                    Mail Us:
+                    Flipkart Internet Private Limited,
+
+                    Buildings Alyssa, Begonia &
+
+                    Clove Embassy Tech Village,
+
+                    Outer Ring Road, Devarabeesanahalli Village,
+
+                    Bengaluru, 560103,
+
+                    Karnataka, India
+
+                    Social
+
+
+
+                    Registered Office Address:
+                    Flipkart Internet Private Limited,
+
+                    Buildings Alyssa, Begonia &
+
+                    Clove Embassy Tech Village,
+
+                    Outer Ring Road, Devarabeesanahalli Village,
+
+                    Bengaluru, 560103,
+
+                    Karnataka, India
+
+                    CIN : U51109KA2012PTC066107
+
+                    Telephone: 044-45614700 / 044-67415800</p>
+            </div>
+
+
+            <div class=pp>
+                <p>ABOUT
+                    Contact Us
+                    About Us
+                    Careers
+                    Flipkart Stories
+                    Press
+                    Corporate Information
+                    GROUP COMPANIES
+                    Myntra
+                    Cleartrip
+                    Shopsy
+                    HELP
+                    Payments
+                    Shipping
+                    Cancellation & Returns
+                    FAQ
+                    Report Infringement
+                    CONSUMER POLICY
+                    Cancellation & Returns
+                    Terms Of Use
+                    Security
+                    Privacy
+                    Sitemap
+                    Grievance Redressal
+                    EPR Compliance
+                    Mail Us:
+                    Flipkart Internet Private Limited,
+
+                    Buildings Alyssa, Begonia &
+
+                    Clove Embassy Tech Village,
+
+                    Outer Ring Road, Devarabeesanahalli Village,
+
+                    Bengaluru, 560103,
+
+                    Karnataka, India
+
+                    Social
+
+
+
+                    Registered Office Address:
+                    Flipkart Internet Private Limited,
+
+                    Buildings Alyssa, Begonia &
+
+                    Clove Embassy Tech Village,
+
+                    Outer Ring Road, Devarabeesanahalli Village,
+
+                    Bengaluru, 560103,
+
+                    Karnataka, India
+
+                    CIN : U51109KA2012PTC066107
+
+                    Telephone: 044-45614700 / 044-67415800</p>
+            </div>
+
+
+
+
+
+
+    </Main>
+    <footer>
+        <div class=copy>
+            <p>Copyright © 2024 Flipkart, Inc.</p>
+
+    </footer>
+
+</body>
+
+</html>
