@@ -1,65 +1,4 @@
-#java
-
-#advance java
-import java.awt.*;
-import javax.swing.*;
-
-// Circle class to represent a circle
-class Circle {
-    private int x, y; // Coordinates of the circle's center
-    private int radius; // Radius of the circle
-
-    // Constructor to initialize circle's properties
-    public Circle(int x, int y, int radius) {
-        this.x = x;
-        this.y = y;
-        this.radius = radius;
-    }
-
-    // Method to draw the circle
-    public void draw(Graphics g) {
-        g.setColor(Color.RED); // Set color (e.g., red)
-        g.fillOval(x - radius, y - radius, 2 * radius, 2 * radius); // Draw filled circle
-    }
-}
-
-// Main class to demonstrate the use of Circle class
-public class Main extends JPanel {
-    private Circle[] circles; // Array to hold multiple circles
-
-    // Constructor to create and initialize circles
-    public Main() {
-        circles = new Circle[4]; // Create an array of 4 circles
-
-        // Initialize each circle with different parameters
-        circles[0] = new Circle(100, 100, 50);
-        circles[1] = new Circle(200, 200, 30);
-        circles[2] = new Circle(300, 150, 70);
-        circles[3] = new Circle(400, 300, 40);
-    }
-
-    // Method to paint (draw) all circles on the JPanel
-    @Override
-    protected void paintComponent(Graphics g) {
-        super.paintComponent(g);
-
-        // Iterate through all circles and draw each one
-        for (Circle circle : circles) {
-            circle.draw(g);
-        }
-    }
-
-    // Main method to set up and display the GUI
-    public static void main(String[] args) {
-        JFrame frame = new JFrame("Draw Circles Example");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(600, 400);
-        Main mainPanel = new Main(); // Create an instance of the Main class
-
-        frame.add(mainPanel); // Add the Main JPanel to the JFrame
-        frame.setVisible(true); // Make the JFrame visible
-    }
-}
+#java 
 
     public static voidpublic class Main {
  main(String[] args)
@@ -88,6 +27,7 @@ d main(String[] args)
 public class Main {
     public static void main(String[] args)
     {
+
        int age = 77;
        byte age2 = 100;
        long age3 = 1000l;
