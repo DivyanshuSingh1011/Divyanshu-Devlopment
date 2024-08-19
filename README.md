@@ -1,2 +1,2 @@
 # Divyanshu-Devlopment
-clon project of amazone just using HTML and Css
+clone project of amazone just using HTML and Css
